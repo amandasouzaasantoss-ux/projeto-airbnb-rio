@@ -13,13 +13,13 @@ Análise de **27 mil anúncios ativos** do Airbnb no Rio de Janeiro, com dados p
 ## Principais resultados
 
 **1. Leblon e Ipanema cobram quase o dobro de Copacabana**
-![Diária por bairro](imagens/diaria_por_bairro.png)
+![Diária por bairro](imagens/diaria_por_bairro.svg)
 
 **2. Réveillon e Carnaval são reservados com meses de antecedência:** 71% dos imóveis já estavam indisponíveis para 31/12, contra 27% num dia comum de dezembro.
-![Réveillon e Carnaval](imagens/reveillon_carnaval.png)
+![Réveillon e Carnaval](imagens/reveillon_carnaval.svg)
 
 **3. O Superhost não cobra mais caro, mas aluga cerca de 3x mais:** 108 noites por ano contra 30, com faturamento estimado 3 vezes maior.
-![Superhost](imagens/superhost.png)
+![Superhost](imagens/superhost.svg)
 
 **4. Para investir, olhe o faturamento e não só a diária:** Ipanema e Leblon lideram em faturamento; Gávea e Lagoa cobram caro, mas alugam pouco.
 
